@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akhila Nare\\Authentication-System\\TeamAuthMvc.csproj": {}
+    "C:\\Users\\SAGAR\\Authentication-System\\TeamAuthMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akhila Nare\\Authentication-System\\TeamAuthMvc.csproj": {
+    "C:\\Users\\SAGAR\\Authentication-System\\TeamAuthMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akhila Nare\\Authentication-System\\TeamAuthMvc.csproj",
+        "projectUniqueName": "C:\\Users\\SAGAR\\Authentication-System\\TeamAuthMvc.csproj",
         "projectName": "TeamAuthMvc",
-        "projectPath": "C:\\Users\\Akhila Nare\\Authentication-System\\TeamAuthMvc.csproj",
-        "packagesPath": "C:\\Users\\Akhila Nare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akhila Nare\\Authentication-System\\obj\\",
+        "projectPath": "C:\\Users\\SAGAR\\Authentication-System\\TeamAuthMvc.csproj",
+        "packagesPath": "C:\\Users\\SAGAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAGAR\\Authentication-System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Akhila Nare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SAGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -94,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamAuthMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c671ed8a79e67e5510c8a8159fd7dd0b0c1f7e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee75018812963543df2f1cbacd08a44e3271c1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamAuthMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamAuthMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

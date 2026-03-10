@@ -61,6 +61,6 @@ app.UseAuthorization();   // Auth logic will be added later (Dev-2/Dev-3)
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Auth}/{action=Login}/{id?}");
 
 app.Run();
